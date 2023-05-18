@@ -140,8 +140,8 @@ namespace IterationStatements
             //ISEvenOrOdd(3);
             //IsPosOrNeg(77);
             //CanVote();
-            //IsInTenRang(8);
-            // MultiplyThru12();
+            //IsInTenRange(8);
+            //MultiplyThru12(9);
         }
     }
 }
